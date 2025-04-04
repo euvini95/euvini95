@@ -18,7 +18,7 @@ Este é o espaço destinado a minha imaginação e criatividade.
 <a href="https://www.instagram.com/o_vini95/">
 <img aling="left" alt="icone-do-instagram" width="40px" src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" />  
 </a
-<a href="www.linkedin.com/in/vinicius-ferreira-goes">
+<a href=https://www.linkedin.com/in/vinicius-ferreira-goes/>
 <img aling="left" alt="icone-linkedin" width="40px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 </p>
